@@ -1,4 +1,4 @@
-== R Application
+## R Application
 
 `git clone https://github.com/chiefGui/rui`
 
